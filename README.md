@@ -22,7 +22,6 @@ A Thai text analysis application built with LangGraph and Ollama that performs c
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Agent_Langgraph_Learning
    ```
 
 2. **Install dependencies**
